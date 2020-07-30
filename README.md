@@ -1,5 +1,5 @@
 # Projeto-IRIS
- Projeto de predição do dataset Iris
+ Projeto de Machine Learning de predição do dataset Iris
 
 Referência
 https://www.kaggle.com/uciml/iris
